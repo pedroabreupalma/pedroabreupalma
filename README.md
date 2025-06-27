@@ -1,20 +1,18 @@
-## Olá! Eu sou o Pedro de Abreu Palma 😎
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-de-abreu-palma-28b779249/)
+## [👋🏻] Pedro de Abreu Palma
+👉 Apaixonado por dados, matematica e tecnologia! Sempre praticando em projetos pessoais e em meu estágio, recomendo dar uma olhada em meu curriculo e em minha trajetória, estou sempre pronto para desafios maiores!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedropalmadev&show_icons=true&theme=dark) [![Pedro GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pedropalmadev&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-## Tecnologias que pratico
+### [📧] Contato 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-de-abreu-palma-28b779249/) 
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:pedroabreupalma@gmail.com)
+### [💻] Tecnologias que pratico
 
 <div style="display: inline_block"> <br/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-    <img align="center" alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
     <img align="center" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+    <img align="center" alt="Power BI" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+    <img align="center" alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+    <img align="center" alt="SQLite" src="https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E">
+    <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+    <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma">
 </div>
 </div>
 
-## Portfolio
-
---> https://pedropalmadev.github.io/projeto-portifolio/
