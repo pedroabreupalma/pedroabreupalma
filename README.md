@@ -13,8 +13,9 @@
 ![Novo Projeto (8)](https://github.com/user-attachments/assets/d4c350cb-06b0-43b3-a8a4-d784ddf4f924)
 
 
-![Novo Projeto (20)](https://github.com/user-attachments/assets/a2f24307-bd45-4797-856d-b8135bfaf71b)
+![Novo Projeto (21)](https://github.com/user-attachments/assets/6cf0b039-1813-4265-9bbb-7d96ca7836c3)
 - **Análise do Mercado de Petróleo com Relação aos Conflitos no Irã:** https://github.com/pedroabreupalma/Analise-do-setor-petrolifero
+- **Análise de Restaurantes do IFood pelo Brasil:** https://www.linkedin.com/feed/update/urn:li:activity:7333195957989171202/
 - **Análise de Jogadores e Times da FIFA (Streamlit):** https://github.com/pedroabreupalma/streamlit_fifa23
 
 
