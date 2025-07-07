@@ -1,4 +1,4 @@
-## ![Novo Projeto (16)](https://github.com/user-attachments/assets/0d3a2835-ee3c-4d29-9d7f-ceb4830f5280)
+## ![Novo Projeto (23)](https://github.com/user-attachments/assets/f5291ae9-ba57-4d10-ae7b-e3cfc3f06e31)
 
 
 ![Novo Projeto (17)](https://github.com/user-attachments/assets/2b79a21c-ff1c-4384-a498-f926aa69b003)
