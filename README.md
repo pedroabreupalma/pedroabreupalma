@@ -3,9 +3,9 @@
 
 ![Novo Projeto (17)](https://github.com/user-attachments/assets/2b79a21c-ff1c-4384-a498-f926aa69b003)
 
-[PT-BR] Apaixonado por dados, matematica e tecnologia! Sempre em constante evolução, recomendo dar uma olhada em meu curriculo e em minha trajetória, estou sempre pronto para desafios maiores!
+[PT-BR] Apaixonado por dados, matematica e tecnologia! Sempre em constante evolução, recomendo dar uma olhada em meus projetos e em minha trajetória, estou sempre pronto para desafios maiores!
 
-[EN-US] Passionate about data, math, and technology! Always evolving, I recommend checking out my resume and journey. I'm always ready for bigger challenges!
+[EN-US] Passionate about data, math, and technology! Always evolving, I recommend checking out my projects and journey. I'm always ready for bigger challenges!
 
 ![Novo Projeto (18)](https://github.com/user-attachments/assets/93e66795-ee89-4042-b8b2-c6fa5130e02a)
 
