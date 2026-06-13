@@ -16,7 +16,9 @@
 ![Novo Projeto (21)](https://github.com/user-attachments/assets/a0f117e8-f453-48df-9fab-9c1ab459fb63)
 - **Análise do Mercado de Petróleo com Relação aos Conflitos no Irã:** https://github.com/pedroabreupalma/Analise-do-setor-petrolifero
 - **Análise de Restaurantes do IFood pelo Brasil:** https://www.linkedin.com/feed/update/urn:li:activity:7333195957989171202/
-- **Análise de Jogadores e Times da FIFA (Streamlit):** https://github.com/pedroabreupalma/streamlit_fifa23
+- **Cão Radar - sistema de identificação e localização de cães 
+perdidos por meio de Visão Computacional e Inteligência Artificial 
+Generativa Multimodal :** https://github.com/Vinicius-S-Vilela/caoradar-platform
 
 
 ![Novo Projeto (19)](https://github.com/user-attachments/assets/888f643e-78c3-4866-bbb7-eb72b983331a)
